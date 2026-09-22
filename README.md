@@ -405,11 +405,6 @@ If the entered ID does not exist:
 ```text
 Vehicle not found.
 
-```
-
-### Output Screenshot
-
-![Vehicle Registry Output](output/output1.png)
 
 ---
 
